@@ -1,5 +1,5 @@
 # Filmtagging
-<p>Filmtagging is a crowdsourced tag collection platform in which tags can be gathered over films. Additionaly users are able to export the tags to use for various research activities.</p>
+<p>Filmtagging is a crowdsourced tag collection platform in which tags can be gathered over films and users are able to export the tags to use for various research activities. This platform was used for my master thesis and is now available for anyone who want's to use it.</p>
 
 <b><title>Setup for annotation platform FILMTAGGING</title></b>
 
