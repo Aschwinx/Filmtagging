@@ -60,9 +60,23 @@ Now go to your browser and type localhost/test.php if a page opens php is instal
   
 Go to the browser and type in localhost/phpmyadmin, if the phpMyAdmin environment opens it is installed correctly. Now login with the username and password you used through the installation process.
 
+<b>Step 9.</b> Download filmtagging database.sql 
+
+<b>Step 10.</b> Create new empty database in phpmyadmin and name it "annotation"
+
+<b>Step 11.</b> Open the "annotation" database and click import on the top of the page and select the filmtagging database.sql
+
+Now the following tables should be added :
+<ul>
+<li>skills</li>
+<li>users</li>
+<li>users_annotations</li>
+<li>videos</li>
+</ul>
+
 <b><heading>Setup FILMTAGGING platform</heading></b>
 
-<b>Step 1.</b> Download the FILMTAGGING platform
+<b>Step 1.</b> Download the filmtagging platform.zip
 
 <b>Step 2.</b> Remove the index.html file:
 
